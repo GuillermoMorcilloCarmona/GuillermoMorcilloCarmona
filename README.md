@@ -2,7 +2,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=50&duration=4000&pause=300&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1300&height=140&lines=Hola+soy+Guillermo+Morcillo+Carmona;Un+estudiante+de+DAW" width="70%" />
 <br><br>
 <pre>
-    💼 DAW @ IES El Caminás • Web Developer • Front-end & Back-end
+    💼 DAW @ IES El Caminás
     💻 HTML5 • JSON • JavaScript • Java • MySQL • Python • Git
     📖 Web Developer
     🎮 Music • Games • Anime • Code • Creativity
