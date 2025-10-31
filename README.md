@@ -3,8 +3,8 @@
 <br><br>
 <pre>
     💼 DAW @ IES El Caminás • Web Developer • Front-end & Back-end
-    💻 HTML • CSS • JavaScript • PHP • MySQL • Git
-    📖 Responsive design • APIs • MVC architecture • UX/UI
+    💻 HTML5 • JSON • JavaScript • Java • MySQL • Python • Git
+    📖 Web Developer
     🎮 Music • Games • Anime • Code • Creativity
 </pre>
 <br><br>
