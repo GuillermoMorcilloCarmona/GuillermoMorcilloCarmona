@@ -3,7 +3,7 @@
 <br><br>
 <pre>
     💼 DAW @ IES El Caminás
-    💻 HTML5 • JSON • JavaScript • Java • MySQL • Python • Git
+    💻 HTML5 • JSON • JavaScript • Java • MySQL • Python
     📖 Web Developer
     🎮 Music • Games • Anime • Code • Creativity
 </pre>
