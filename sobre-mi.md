@@ -5,7 +5,7 @@
 Soy Guillermo Morcillo Carmona, estudiante de Desarrollo de Aplicaciones Web (DAW) en IES El Caminás.  
 Me apasiona el mundo del desarrollo web, la tecnología y todo lo que implique creatividad.
 
-## ¿Qué me motiva?
+## 📚 ¿Qué me motiva? 📚
 
 Me encanta aprender cosas nuevas, resolver problemas y construir ideas desde cero.
 Disfruto programando, diseñando interfaces y entendiendo como funcionan las cosas por dentro.
