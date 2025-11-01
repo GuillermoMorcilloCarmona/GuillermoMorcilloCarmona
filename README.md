@@ -10,7 +10,7 @@
     </pre>
 
     
-    <img src="https://github.com/GuilleMorCar/GuilleMorCar/img/SteinsGate.png?raw=true" width="150" />
+    <img src="https://github.com/GuilleMorCar/GuilleMorCar/blob/main/img/SteinsGate.png?raw=true" width="150" />
   </div>
 <br><br>
 
