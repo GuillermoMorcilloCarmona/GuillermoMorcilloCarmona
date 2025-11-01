@@ -21,3 +21,11 @@
 
 </div>
 
+---
+
+## 📂 Navegación 📂 ##
+
+- [👤 Sobre mí](./sobre-mi.md)
+- [🎮 Gaming](./gaming.md)
+- [📱 Redes sociales](./redes.md)
+- [💼 Portfolio](./portfolio.md)
