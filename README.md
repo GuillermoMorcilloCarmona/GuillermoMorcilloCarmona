@@ -27,5 +27,5 @@
 
 - [👤 Sobre mí](./sobre-mi.md)
 - [🎮 Gaming](./gaming.md)
-- [📱 Redes sociales](./redes.md)
+- [📺 Anime & Manga](./anime.md)
 - [💼 Portfolio](./portfolio.md)
