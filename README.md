@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=6000&pause=1000&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=100&lines=Hola,+soy+Guillermo+Morcillo+Carmona;Estudiante+de+DAW+y+desarrollador+web" />
+<img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=6000&pause=1000&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=100&lines=Hola,+soy+Guillermo+Morcillo+Carmona;Estudiante+de+Desarrollo+de+Aplicaciones+Web" />
 <br><br>
 <pre>
     💼 DAW @ IES El Caminás
