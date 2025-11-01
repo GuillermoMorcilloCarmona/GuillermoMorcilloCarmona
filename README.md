@@ -15,7 +15,7 @@
 
     
 [![](https://img.shields.io/badge/linkedin-0a66c2)](https://www.linkedin.com/in/guillermo-morcillo-carmona-a4887b312/)
-[![Steam](https://img.shields.io/badge/Steam-guimopa-9146FF?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/id/guimopa)
+[![Steam](https://img.shields.io/badge/Steam-guimopa-9146FF?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198277603309)
 
 
 </div>
