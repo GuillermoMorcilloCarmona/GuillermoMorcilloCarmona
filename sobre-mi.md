@@ -10,7 +10,7 @@
     
 ## 👤 ¿Quien soy? 👤
 
-Soy Guillermo Morcillo Carmona, estudiante de Desarrollo de Aplicaciones Web (DAW) en IES El Caminás, ubicado en Castellon.  
+Soy Guillermo Morcillo Carmona, estudiante de Desarrollo de Aplicaciones Web (DAW) en IES El Caminás.  
 Me apasiona el mundo del desarrollo web, la tecnología y todo lo que implique creatividad.
 
 ## 📚 ¿Qué me motiva? 📚
