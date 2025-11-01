@@ -10,7 +10,7 @@
 🎮 Music • Games • Anime • Code • Creativity
     </pre>
 <br><br>
-<img src="https://github.com/GuilleMorCar/GuilleMorCar/blob/main/img/81ac80508bb7fedc2742868b26ef0739.gif" height="40%"/>
+<img src="https://github.com/GuilleMorCar/GuilleMorCar/blob/main/img/lobo.gif" height="20%"/>
 <br><br><br>
 
     
