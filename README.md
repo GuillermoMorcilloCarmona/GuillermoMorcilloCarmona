@@ -10,7 +10,7 @@
     </pre>
 
     
-    <img src="https://via.placeholder.com/150" alt="Tu imagen aquí" width="150" />
+    <img src="https://github.com/GuilleMorCar/GuilleMorCar/img/SteinsGate.png?raw=true" width="150" />
   </div>
 <br><br>
 
