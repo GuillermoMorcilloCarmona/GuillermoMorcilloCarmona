@@ -2,8 +2,8 @@
 <img src="https://readme-typing-svg.demolab.com?font=Inconsolata&weight=500&size=40&duration=6000&pause=1000&color=A7A459&center=true&vCenter=true&multiline=true&repeat=false&random=false&width=1000&height=100&lines=Hola,+soy+Guillermo+Morcillo+Carmona;Estudiante+de+Desarrollo+de+Aplicaciones+Web" />
 <br><br>
  
- <div style="display: flex; justify-content: center; align-items: center; gap: 40px;">
-  <div>
+ <div style="display: flex; justify-content: space-between; align-items: center; gap: 40px; flex-wrap: wrap; width: 80%">
+  <div style="flex: 1; min-width: 300px;">
     <pre style="text-align: left;">
 💼 DAW @ IES El Caminás
 💻 HTML5 • JSON • JavaScript • Java • MySQL • Python
