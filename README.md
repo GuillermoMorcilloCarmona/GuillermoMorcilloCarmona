@@ -8,8 +8,8 @@
 📖 Web Developer
 🎮 Music • Games • Anime • Code • Creativity
     </pre>
-
-    
+ </div>
+    <div>
     <img src="https://github.com/GuilleMorCar/GuilleMorCar/blob/main/img/SteinsGate.png?raw=true" width="150" />
   </div>
 <br><br>
