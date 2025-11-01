@@ -14,9 +14,9 @@
 <br><br><br>
 
     
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-guimopa-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-morcillo-carmona-a4887b312/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Guillermo-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guillermo-morcillo-carmona-a4887b312/)
 [![Steam](https://img.shields.io/badge/Steam-guimopa-9146FF?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561198277603309)
-
+[![Instagram](https://img.shields.io/badge/Instagram-guimopa-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/p/DMTAJfnoQaI/?igsh=MWs4ZGp3NXNtam94cg%3D%3D)
 
 </div>
 
