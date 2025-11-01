@@ -1,8 +1,16 @@
 ## 👤 Sobre mí 👤
 
- <img src="https://github.com/GuilleMorCar/GuilleMorCar/blob/main/img/fotopersonal.jpg?raw=true" width="25%" align="right"/>
+<table style="border: none;">
+  <tr>
+    <td width="200px">
+      <img src="https://github.com/GuilleMorCar/GuilleMorCar/blob/main/img/fotopersonal.jpg?raw=true" width="250px"/>
+    </td>
+   <td>
 
-Soy Guillermo Morcillo Carmona, estudiante de Desarrollo de Aplicaciones Web (DAW) en IES El Caminás.  
+    
+## 👤 ¿Quien soy? 👤
+
+Soy Guillermo Morcillo Carmona, estudiante de Desarrollo de Aplicaciones Web (DAW) en IES El Caminás, ubicado en Castellon.  
 Me apasiona el mundo del desarrollo web, la tecnología y todo lo que implique creatividad.
 
 ## 📚 ¿Qué me motiva? 📚
@@ -28,3 +36,8 @@ Mi meta es seguir aprendiendo, colaborar en distintos proyectos y aportar valor 
 ![JSON](https://img.shields.io/badge/JSON-5E5C5C?style=for-the-badge&logo=json&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+<br>
+</td>
+  </tr>
+</table>
